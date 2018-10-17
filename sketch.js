@@ -16,10 +16,10 @@ function setup() {
 
   createCanvas(windowWidth, windowHeight);
 
-  img = loadImage("balloon.png");
-  img2 = loadImage("cloud.png");
-  img3 = loadImage("cloud2.png");
-  img4 = loadImage("cloud3.png");
+  img = loadImage("./assets/balloon.png");
+  img2 = loadImage("./assets/cloud.png");
+  img3 = loadImage("./assets/cloud2.png");
+  img4 = loadImage("./assets/cloud3.png");
 
 
   var balloonNumber = 5;
